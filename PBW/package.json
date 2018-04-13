@@ -1,0 +1,27 @@
+{
+  "name": "pbw",
+  "version": "1.0.0",
+  "description": "Penn Brewery & Winery",
+  "main": "index.js",
+  "scripts": { "compile:sass": "node-sass scss/main.scss css/style.css -w" },
+  "keywords": [
+    "Penn",
+    "Pennsylvania",
+    "Brewery",
+    "Beer",
+    "Winery",
+    "Wine",
+    "Food",
+    "Restaurant",
+    "Tours"
+  ],
+  "author": "Jeremy Hackett",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "npm": "^5.8.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
